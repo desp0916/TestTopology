@@ -27,8 +27,6 @@ import java.util.Properties;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 
-import com.pic.ala.learn.TestTopology.spout.RandomSentenceSpout;
-
 import backtype.storm.Config;
 import backtype.storm.LocalCluster;
 import backtype.storm.LocalDRPC;

@@ -1,4 +1,4 @@
-package com.pic.ala.learn.TestTopology.partition;
+package learn.storm.trident.partition;
 
 import java.io.Serializable;
 import java.util.List;
