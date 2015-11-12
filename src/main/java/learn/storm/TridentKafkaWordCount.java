@@ -20,7 +20,7 @@
  * Please see doc/old-thrift-license.txt in the Thrift distribution for
  * details.
  */
-package com.pic.ala.learn.TestTopology;
+package learn.storm;
 
 
 import java.util.Properties;
